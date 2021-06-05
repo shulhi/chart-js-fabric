@@ -125,8 +125,8 @@
     "typescript": "^4.0.0"
   },
   "dependencies": {
-    "chart.js": "^2.9.3",
-    "fabric": "^4.1.0",
+    "chart.js": "^3.3.2",
+    "fabric": "^4.5.0",
     "lodash.debounce": "^4.0.8",
     "lodash.merge": "^4.6.2"
   }
